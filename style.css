@@ -10,6 +10,10 @@ body{
     animation: changingColor 5s infinite alternate;
 }
 
+.cake{
+    text-align: center;
+    font-size: 40px;
+}
 
 .bgMusic{
     text-align: center;
